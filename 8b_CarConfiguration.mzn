@@ -44,6 +44,8 @@ constraint skibox == 'Skibox_7.4' -> carType == '7.4';
 constraint skiboxLock -> skibox != none;
 constraint skibox != none -> skiboxLock;
 
+constraint bool2int(bikerack) + bool2int(trailer) + bool2int(caravan) <= 1;
+
 solve satisfy;
 
 output ["Car type: \(carType), Engine: \(engine), Hook: \(hook), Bikerack: \(bikerack)'' \n",
