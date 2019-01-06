@@ -46,6 +46,13 @@ constraint skibox != none -> skiboxLock;
 
 constraint bool2int(bikerack) + bool2int(trailer) + bool2int(caravan) <= 1;
 
+%TESTS
+%caravan = true;
+%skibox = 'Skibox_5.*';
+%skibox = 'Skibox_7.4';
+%trailer = true;
+%bikerack = true;
+
 solve satisfy;
 
 output ["Car type: \(carType), Engine: \(engine), Hook: \(hook), Bikerack: \(bikerack)'' \n",

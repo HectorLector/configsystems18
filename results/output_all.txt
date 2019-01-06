@@ -1,0 +1,129 @@
+Car type: '3.2', Engine: '2L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.2', Engine: '2L', Hook: '3.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.2', Engine: '2L', Hook: '3.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.3', Engine: '3L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.3', Engine: '3L', Hook: '3.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.3', Engine: '3L', Hook: '3.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.4', Engine: '4L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '3.2', Engine: '2L', Hook: '3.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.3', Engine: '3L', Hook: '3.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: true, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: true, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: true, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+==========
+%%%mzn-stat initTime=0.001451
+%%%mzn-stat solveTime=0.002267
+%%%mzn-stat solutions=39
+%%%mzn-stat variables=28
+%%%mzn-stat propagators=34
+%%%mzn-stat propagations=782
+%%%mzn-stat nodes=77
+%%%mzn-stat failures=0
+%%%mzn-stat restarts=0
+%%%mzn-stat peakDepth=7
+%%%mzn-stat-end

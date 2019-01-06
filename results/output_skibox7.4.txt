@@ -1,0 +1,27 @@
+Car type: '7.4', Engine: '4L', Hook: no, Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: true, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false'' 
+Trailer: false, Caravan: true, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+==========
+%%%mzn-stat initTime=0.000506
+%%%mzn-stat solveTime=0.000195
+%%%mzn-stat solutions=5
+%%%mzn-stat variables=22
+%%%mzn-stat propagators=9
+%%%mzn-stat propagations=62
+%%%mzn-stat nodes=9
+%%%mzn-stat failures=0
+%%%mzn-stat restarts=0
+%%%mzn-stat peakDepth=4
+%%%mzn-stat-end

@@ -1,0 +1,39 @@
+Car type: '3.2', Engine: '2L', Hook: '3.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '3.3', Engine: '3L', Hook: '3.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: none, Skibox-Lock: false
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: true'' 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+==========
+%%%mzn-stat initTime=0.000537
+%%%mzn-stat solveTime=0.000283
+%%%mzn-stat solutions=9
+%%%mzn-stat variables=25
+%%%mzn-stat propagators=26
+%%%mzn-stat propagations=214
+%%%mzn-stat nodes=17
+%%%mzn-stat failures=0
+%%%mzn-stat restarts=0
+%%%mzn-stat peakDepth=3
+%%%mzn-stat-end
