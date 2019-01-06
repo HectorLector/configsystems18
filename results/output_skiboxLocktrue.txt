@@ -1,0 +1,51 @@
+Car type: '5.3', Engine: '3L', Hook: no, Bikerack: false, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: no, Bikerack: false, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: false, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: true, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: false, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: true, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: no, Bikerack: false, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: true, 
+Trailer: false, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '5.3', Engine: '3L', Hook: '5.*', Bikerack: false, 
+Trailer: true, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '5.4', Engine: '4L', Hook: '5.*', Bikerack: false, 
+Trailer: true, Caravan: false, Skibox: 'Skibox_5.*', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false, 
+Trailer: true, Caravan: false, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false, 
+Trailer: false, Caravan: true, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+==========
+%%%mzn-stat initTime=0.000293
+%%%mzn-stat solveTime=0.000239
+%%%mzn-stat solutions=13
+%%%mzn-stat variables=26
+%%%mzn-stat propagators=31
+%%%mzn-stat propagations=340
+%%%mzn-stat nodes=27
+%%%mzn-stat failures=1
+%%%mzn-stat restarts=0
+%%%mzn-stat peakDepth=7
+%%%mzn-stat-end

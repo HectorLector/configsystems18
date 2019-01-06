@@ -1,0 +1,12 @@
+=====UNSATISFIABLE=====
+%%%mzn-stat initTime=0.000168
+%%%mzn-stat solveTime=1.8e-05
+%%%mzn-stat solutions=0
+%%%mzn-stat variables=13
+%%%mzn-stat propagators=0
+%%%mzn-stat propagations=0
+%%%mzn-stat nodes=0
+%%%mzn-stat failures=1
+%%%mzn-stat restarts=0
+%%%mzn-stat peakDepth=0
+%%%mzn-stat-end

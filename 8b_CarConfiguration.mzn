@@ -55,5 +55,5 @@ constraint bool2int(bikerack) + bool2int(trailer) + bool2int(caravan) <= 1;
 
 solve satisfy;
 
-output ["Car type: \(carType), Engine: \(engine), Hook: \(hook), Bikerack: \(bikerack)'' \n",
+output ["Car type: \(carType), Engine: \(engine), Hook: \(hook), Bikerack: \(bikerack), \n",
         "Trailer: \(trailer), Caravan: \(caravan), Skibox: \(skibox), Skibox-Lock: \(skiboxLock)"];

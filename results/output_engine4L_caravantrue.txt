@@ -1,0 +1,21 @@
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false, 
+Trailer: false, Caravan: true, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4C', Engine: '4L', Hook: '7.*', Bikerack: false, 
+Trailer: false, Caravan: true, Skibox: none, Skibox-Lock: false
+----------
+Car type: '7.4', Engine: '4L', Hook: '7.*', Bikerack: false, 
+Trailer: false, Caravan: true, Skibox: 'Skibox_7.4', Skibox-Lock: true
+----------
+==========
+%%%mzn-stat initTime=0.000211
+%%%mzn-stat solveTime=7.4e-05
+%%%mzn-stat solutions=3
+%%%mzn-stat variables=13
+%%%mzn-stat propagators=6
+%%%mzn-stat propagations=27
+%%%mzn-stat nodes=5
+%%%mzn-stat failures=0
+%%%mzn-stat restarts=0
+%%%mzn-stat peakDepth=2
+%%%mzn-stat-end
